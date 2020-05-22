@@ -1,2 +1,2 @@
 # kg
-the demo knowledge graph related stuff
+knowledge graph related stuff
